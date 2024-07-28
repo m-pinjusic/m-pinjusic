@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as n,k as o}from"./D5TxrF2e.js";const t={},r={class:"w-full 2xl:max-w-screen-3xl max-w-screen-xl lg:px-10 px-4 lg:py-4 py-2"};function _(e,l){return c(),n("div",r,[o(e.$slots,"default")])}const x=s(t,[["render",_]]);export{x as _};
